@@ -2,17 +2,15 @@
 
 ![Cryptography Program](https://github.com/user-attachments/assets/d3727940-6c1c-4964-ac07-9a424d890f5f)
 
-## About the game
-Goldilocks is a game that has a "infinite" (i.e reality really big) 2D universe where you control the spaceship. The game uses procedural world generation with noise maps (we use simplex noise) to generate planet locations, their textures, and the world. The planets are all generated at once at the execution of the program. During runtime, the program will render the planets based on their distance from the player's spaceship.
-
-The goal of the game is to find "Goldilocks", a golden planet that was once lost to time. It will be found within the assortment of the procedurally generated worlds, and your goal is to destroy asteroids to get fuel for your spaceship. You can destroy asteroids to get fuel by clicking anywhere on the screen to shoot bullets.
+## About the program
+This is the encryption program that uses RSA, Caesar, and Substitution ciphers to encrypt input messages. As the encryption is performed, the program displays a matrix animation that I created in StdDraw library and using cellular automata similar to Rule 110. The main focus of the project was learning about different encryption strategies and developing user interface using java Swing.
 
 To compile and run the program, type:
-javac *.java
-java Main
+javac Project.java
+java Project
 in the terminal. No command line arguments needed.
 
-To control the spaceship, use WASD keys (w: move up, s: move down, d: move right, a: move left). Aim with your mouse and left click in a direction to shoot bullets.
+Once program is running, type in your message in the input box, choose the cipher that you would like to use, and click encrypt. If using the Caesar cipher, a new window will open asking to input the desier shift of the alphabet. Note: due to the overflow issues, without using built-in security libraries the RSA cipher is limited to four character inputs
 
 ## Demonstration 
 <p align="center">
