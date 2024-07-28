@@ -1,4 +1,4 @@
-# Cryptography Program: Use RSA, Substitution or Caesar Cypher to Encrypt and Decrypt Messages
+# Cryptography Program: Use RSA, Substitution or Caesar Cyiher to Encrypt Messages
 
 ![frame goldilocks preview](https://github.com/user-attachments/assets/180f3cd0-25ad-4033-a1d0-043e9cc15961)
 
