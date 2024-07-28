@@ -5,13 +5,13 @@
 ## About the program
 This is the encryption program that uses RSA, Caesar, and Substitution ciphers to encrypt input messages. As the encryption is performed, the program displays a matrix animation that I created in StdDraw library and using cellular automata similar to Rule 110. The main focus of the project was learning about different encryption strategies and developing user interface using java Swing.
 
-To compile and run the program, type:
+To compile and run the program, in the terminal, type:
 
 javac Project.java
 
 java Project
 
-in the terminal. No command line arguments needed.
+No command line arguments needed.
 
 Once program is running, type in your message in the input box, choose the cipher that you would like to use, and click encrypt. If using the Caesar cipher, a new window will open asking to input the desier shift of the alphabet. Note: due to the overflow issues, without using built-in security libraries the RSA cipher is limited to four character inputs
 
