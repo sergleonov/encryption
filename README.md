@@ -23,4 +23,4 @@ You can view a video demonstration of the game below:
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ## License
-Copyright 2023-24: Sergei Leonov, Bilal Tariq, Andrew Palena, Biruk Tefera
+Copyright 2023-24: Sergei Leonov
