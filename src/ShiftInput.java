@@ -145,7 +145,7 @@ public class ShiftInput implements ActionListener {
                     window.add(plaintext);
                     window.add(ciphertext);
                     JLabel image = new JLabel("");
-                    ImageIcon icon = new ImageIcon("security.png");
+                    ImageIcon icon = new ImageIcon("./assets/security.png");
                     image.setIcon(icon);
                     image.setPreferredSize(new Dimension(200, 200));
                     JPanel imagePanel = new JPanel();

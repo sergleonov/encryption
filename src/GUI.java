@@ -137,7 +137,7 @@ public class GUI implements ActionListener {
 
 
         //add an icon
-        image = new ImageIcon("binary-code.png");
+        image = new ImageIcon("./assets/binary-code.png");
         icon = new JLabel("");
         icon.setPreferredSize(new Dimension(300,150));
         icon.setIcon(image);
@@ -231,7 +231,7 @@ public class GUI implements ActionListener {
                     key.setFont(new Font("Arial", Font.BOLD, 14));
                     window.add(key);
                     JLabel image = new JLabel("");
-                    ImageIcon icon = new ImageIcon("security.png");
+                    ImageIcon icon = new ImageIcon("./assets/security.png");
                     image.setIcon(icon);
                     image.setPreferredSize(new Dimension(200,200));
                     JPanel imagePanel = new JPanel();
@@ -321,7 +321,7 @@ public class GUI implements ActionListener {
                     ciphertext.setFont(new Font("Arial", Font.BOLD, 14));
                     window.add(ciphertext);
                     JLabel image = new JLabel("");
-                    ImageIcon icon = new ImageIcon("security.png");
+                    ImageIcon icon = new ImageIcon("./assets/security.png");
                     image.setIcon(icon);
                     image.setPreferredSize(new Dimension(200,200));
                     JPanel imagePanel = new JPanel();
