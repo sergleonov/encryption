@@ -5,7 +5,7 @@
 ## About the program
 This is the encryption program that uses RSA, Caesar, and Substitution ciphers to encrypt input messages. As the encryption is performed, the program displays a matrix animation that I created in StdDraw library and using cellular automata similar to Rule 110. The main focus of the project was learning about different encryption strategies and developing user interface using java Swing.
 
-To compile and run the program, type:
+To compile and run the program, type:\\
 javac Project.java
 java Project
 in the terminal. No command line arguments needed.
