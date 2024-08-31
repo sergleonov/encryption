@@ -1,4 +1,4 @@
-# Cryptography Program: Use RSA, Substitution or Caesar Cyiher to Encrypt Messages
+# Cryptography Program: Use RSA, Substitution or Caesar Cipher to Encrypt Messages
 
 ![Cryptography Program](https://github.com/user-attachments/assets/d3727940-6c1c-4964-ac07-9a424d890f5f)
 
