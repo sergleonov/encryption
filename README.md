@@ -20,7 +20,7 @@ Once program is running, type in your message in the input box, choose the ciphe
 You can view a video demonstration of the game below:
 <p align="center">
 <a href="https://www.youtube.com/watch?v=4Vlz6MiSEws&feature=youtu.be&v=4Vlz6MiSEws
-" target="_blank"><img src="http://img.youtube.com/vi/4Vlz6MiSEws/hqdefault.jpg" 
+" target="_blank"><img src="http://img.youtube.com/vi/4Vlz6MiSEws/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="320"  border="10" /></a>
 
 ## License
