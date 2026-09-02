@@ -1,6 +1,6 @@
 # Cryptography Program: Use RSA, Substitution or Caesar Cipher to Encrypt Messages
 
-![Cryptography Program](https://github.com/user-attachments/assets/d3727940-6c1c-4964-ac07-9a424d890f5f)
+[![Watch the video](https://img.youtube.com/vi/4Vlz6MiSEws/maxresdefault.jpg)](https://www.youtube.com/watch?v=4Vlz6MiSEws)
 
 ## About the program
 This is the encryption program that uses RSA, Caesar, and Substitution ciphers to encrypt input messages. As the encryption is performed, the program displays a matrix animation that I created in StdDraw library and using cellular automata similar to Rule 110. The main focus of the project was learning about different encryption strategies and developing user interface using java Swing.
